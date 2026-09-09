@@ -1,6 +1,6 @@
 // Q2. WAP to count the total number of odd numbers between 1-100, and display the sum of them.
 
-class Assessment {
+public class Ques2 {
     public static void main(String[] args) {
         int count = 0;
         int sum = 0;
