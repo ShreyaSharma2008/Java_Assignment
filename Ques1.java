@@ -1,6 +1,5 @@
-// Q1. WAP to insert 3 numbers from the keyboard and find a greater number among 3 numbers.
 import java.util.Scanner;
-class q1 {
+public class Ques1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
