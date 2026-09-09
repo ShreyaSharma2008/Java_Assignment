@@ -1,4 +1,4 @@
-public class ArrayMinMax {
+public class Ques3 {
     public static void main(String[] args) {
         int[] arr = {45, 12, 85, 32, 89, 39, 69, 44, 42, 1, 6, 8};
         int min = arr[0];
