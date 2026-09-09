@@ -5,7 +5,7 @@ class SimpleObject {
     }
 }
 
-class Ques6{
+public class Ques6{
     public static void main(String[] args) {
         SimpleObject obj = new SimpleObject();
     }
